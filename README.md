@@ -3,9 +3,9 @@ This project uses arduino to light up a 16x16 led matrix and show Icons from 3 T
 This (School) project was done by me (Gabriel Macip) and Leonardo Mocci.
 
 ## Hardware
-1. Aruino (Mega 2560)
+1. Arduino (Mega 2560)
 2. Power supply
-3. Led matrix
+3. Led matrix (NeoPixel FLexMatrix 16x16 WS2812B RGB LED)
 
 ## Software
 1. Arduino IDE 1.8.19
