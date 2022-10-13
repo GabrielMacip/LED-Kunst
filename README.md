@@ -17,7 +17,7 @@ This (School) project was done by me (Gabriel Macip) and Leonardo Mocci.
 
 ## Use
 1. Arduino: Mini computer used to communicate from the computer to the matrix.
-2. Power Supplly: arduino didn't have enough energy to power the whole 16x16 led matrix. 
+2. Power Supplly: Used to power the matrix because the arduino didn't have enough energy to power the whole 16x16 led matrix.  
 3. Led matrix: Used to show the icons.
 4. Arduino IDE 1.8.19: Used to programm the arduino (Harware) and write the code.
 5. Wooden box: The whole power supply wasn't isolated from electricity (some parts werent safe to touch while it had electricity running through it.) The box was built for safety. So that no one could come in direct contact with the unisolated parts of the power supply.
@@ -85,8 +85,8 @@ https://user-images.githubusercontent.com/115350242/195139142-9cf06223-4958-4427
 
 ### The code
 
-- The base code was creted by Yvan from https://Brainy-Bits.com. (this also written as one of the first comments in the code)
-- That base code was modified and all the icons used are original.
+- We reused part of the code that Yvan from https://Brainy-Bits.com ceated.
+- All the icons were created by us (Gabriel Macip and Leonardo Mocci)
 
 
 #### This is my first repository. I would love any feedback on this project and how i could improve for future projects and/or repositories on Github.
